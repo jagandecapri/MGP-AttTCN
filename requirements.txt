@@ -6,3 +6,4 @@ psycopg2==2.8.6
 sacred==0.8.2
 scikit_learn==0.24.1
 tensorflow==2.4.1
+tqdm==4.61.2
